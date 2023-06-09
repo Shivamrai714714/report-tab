@@ -54,3 +54,7 @@ The API will be accessible at http://localhost:<port>, where <port> is the confi
 ### Installation
 
 The API is documented using Swagger. To access the API documentation, start the application and navigate to http://localhost:<port>/api-docs.
+
+
+
+Very nice documentation by Author.
